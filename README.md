@@ -1,6 +1,10 @@
-# NADST-BERT
+# NADST-BERT (WIP)
 
-Trying to do a TF2 implementation of the 
+**NOTE**: This is a work in progress and will update later when I have time.
+Will be figuring out DST dataset format as I go as well, which will slow down
+progress.
+
+Trying to do a TF2 implementation of the
 [Non-Autoregressive Dialog State Tracking](https://arxiv.org/abs/2002.08024)
 paper.
 
